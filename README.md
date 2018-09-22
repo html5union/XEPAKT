@@ -1,2 +1,2 @@
 # XEPAKT
-UI extension for [https://github.com/html5union/DvigloJS](DvigloJS)
+UI extension for [DvigloJS](https://github.com/html5union/DvigloJS)
